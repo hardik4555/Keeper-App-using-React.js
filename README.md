@@ -1,7 +1,7 @@
 
 # Keeper App
 
-Keeper is a simple note-taking application built with React. It allows users to create, edit, and delete notes, helping them organize their thoughts and tasks efficiently.
+Keeper is a simple note-taking application built with React JS. It allows users to create, edit, and delete notes, helping them organize their thoughts and tasks efficiently.
 
 ## Features
 
